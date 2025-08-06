@@ -1,1 +1,1 @@
-conflict raising
+conflict resolving
