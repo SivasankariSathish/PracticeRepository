@@ -1,5 +1,8 @@
 Checking the first commit from local repository to github
 checking the second pull from github to local bbbbbbbbbbbbbbbbbbb
+front end changes done
+front end removed
 backend changes finally done
 backend removed
+
 
